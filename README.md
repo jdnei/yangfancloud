@@ -2,7 +2,7 @@
 yangj
 # YangFanCloud扬帆云机场官方地址(2026年月日更新)
 YangFanCloud扬帆云机场官网地址</br>
-官方地址：[]()</br>
+官方地址：[ml.yfqz1.net](https://ml.yfqz1.net/register?code=eiJGFwD8)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
