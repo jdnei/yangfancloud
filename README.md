@@ -10,7 +10,14 @@ YangFanCloud扬帆云机场官网地址</br>
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 邀请码
-``bash
+```bash
+eiJGFwD8
+```
+## 优惠码/折扣码
+·6.5折，邀请注册后5天·
+```bash
+yf5165
+```
 ## 简介
 ## 优势
 ## 套餐
