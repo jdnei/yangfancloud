@@ -55,8 +55,8 @@ YangFanCloud扬帆云机场提供标准节点、IEPL 专线及原生住宅 IP �
 如果是准备直接塞进 **GitHub README**，上面这版已经可以直接复制粘贴。
 ## 📊 性能实测与分析
 #### 1.晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/yangfancloud/blob/main/yangfan/39487523457speed.png?raw=ture)</br>
 #### 2.流媒体解锁报告
-![image](?raw=ture)</br>  
+![image](https://github.com/jdnei/yangfancloud/blob/main/yangfan/762934598345test.png?raw=ture)</br>  
 #### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/yangfancloud/blob/main/yangfan/37945728934759ana.png?raw=ture)</br>
