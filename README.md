@@ -1,5 +1,5 @@
 
-# YangFanCloud扬帆云机场官方地址(2026年9月26日更新)
+# YangFanCloud扬帆云机场官方地址(2026年10月9日更新)
 YangFanCloud扬帆云机场官网地址</br>
 官方地址：[ml.yfqz1.net](https://ml.yfqz1.net/register?code=eiJGFwD8)</br>
 
