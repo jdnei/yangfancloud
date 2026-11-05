@@ -1,5 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-# آدرس رسمی VPN یانگ‌فان‌کلاد (YangFanCloud) -(به‌روزرسانی 4 نوامبر 2026)
+# آدرس رسمی VPN یانگ‌فان‌کلاد (YangFanCloud) -(به‌روزرسانی 5 نوامبر 2026)
 وب‌سایت رسمی VPN یانگ‌فان‌کلاد (YangFanCloud)<br>
 آدرس رسمی: [ml.yfqz1.net](https://to.iix.im/yang01)<br>
 
