@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# YangFanCloud VPN Official Website (Updated November 7, 2026)
+# YangFanCloud VPN Official Website (Updated November 8, 2026)
 
 YangFanCloud VPN Official Website<br>
 Official Website: [ml.yfqz1.net](https://to.iix.im/yang01)<br>
